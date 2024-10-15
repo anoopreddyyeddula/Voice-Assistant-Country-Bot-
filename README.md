@@ -44,7 +44,7 @@ The project underwent rigorous user testing, including:
 - **Alexa Developer Console**: To build and manage the voice interface.
 - **Dialogflow**: For natural language understanding and intent handling.
 - **External APIs**: For retrieving real-time country data.
-- **Python**: For processing data and integrating APIs.
+- **Node.js**: For processing data and integrating APIs.
 
 ## Future Enhancements
 
