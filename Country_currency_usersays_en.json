@@ -1,0 +1,541 @@
+[
+  {
+    "id": "340e9b17-96b9-4b1c-a75d-11e8a78d952c",
+    "data": [
+      {
+        "text": "Can you tell me how many ",
+        "userDefined": false
+      },
+      {
+        "text": "people",
+        "meta": "@population",
+        "alias": "population",
+        "userDefined": true
+      },
+      {
+        "text": " live in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd98c948-0e0b-4d2c-b93a-c79cdfa0bd5b",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "currency",
+        "meta": "@currency",
+        "alias": "currency",
+        "userDefined": true
+      },
+      {
+        "text": " used in ",
+        "userDefined": false
+      },
+      {
+        "text": "South Africa",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef76d7f4-cef3-445c-8e3a-ab844a5b77eb",
+    "data": [
+      {
+        "text": "Can you show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "population",
+        "meta": "@population",
+        "alias": "population",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "currency",
+        "meta": "@currency",
+        "alias": "currency",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Australia",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa1c6766-8042-4d1e-9f6b-629838fad14e",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "population",
+        "meta": "@population",
+        "alias": "population",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Brazil",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14db4ce0-235c-4110-9791-83be4737fe7b",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "money",
+        "meta": "@currency",
+        "alias": "currency",
+        "userDefined": true
+      },
+      {
+        "text": " is used in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexico",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdcfa0aa-c9be-404b-b1ac-85f54fd97244",
+    "data": [
+      {
+        "text": "I\u0027m curious about the ",
+        "userDefined": false
+      },
+      {
+        "text": "population",
+        "meta": "@population",
+        "alias": "population",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Spain",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ecb275f-c5b3-4289-8e91-9c4b64f9aea0",
+    "data": [
+      {
+        "text": "Show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "currency",
+        "meta": "@currency",
+        "alias": "currency",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "population",
+        "meta": "@population",
+        "alias": "population",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Argentina",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ada0511-66f7-4fbd-a9bb-34d9c7b89751",
+    "data": [
+      {
+        "text": "Can you tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "population",
+        "meta": "@population",
+        "alias": "population",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Belgium",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dc60b13-98ec-4a8e-83f2-a3d3974d4ad0",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "people",
+        "meta": "@population",
+        "alias": "population",
+        "userDefined": true
+      },
+      {
+        "text": " live in ",
+        "userDefined": false
+      },
+      {
+        "text": "Russia",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": ", and what ",
+        "userDefined": false
+      },
+      {
+        "text": "currency",
+        "meta": "@currency",
+        "alias": "currency",
+        "userDefined": true
+      },
+      {
+        "text": " do they use?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "404dff19-e28a-4603-8f7c-9a5990f20de8",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "population",
+        "meta": "@population",
+        "alias": "population",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "currency",
+        "meta": "@currency",
+        "alias": "currency",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Germany",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cdf0dea-4b67-42d8-a01f-2a60976fc400",
+    "data": [
+      {
+        "text": "Can you give me information on the ",
+        "userDefined": false
+      },
+      {
+        "text": "population",
+        "meta": "@population",
+        "alias": "population",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "currency",
+        "meta": "@currency",
+        "alias": "currency",
+        "userDefined": true
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "United Kingdom?",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "342c06b0-57c3-45ea-bd2e-836a31c65a90",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "currency",
+        "meta": "@currency",
+        "alias": "currency",
+        "userDefined": true
+      },
+      {
+        "text": " does ",
+        "userDefined": false
+      },
+      {
+        "text": "Japan",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " use?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9b70371-d049-4542-b53a-64e35fd6b465",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "population",
+        "meta": "@population",
+        "alias": "population",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "France?",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba1de1bb-2585-4df9-b83d-d8424c435af2",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "population",
+        "meta": "@population",
+        "alias": "population",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "currency",
+        "meta": "@currency",
+        "alias": "currency",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Italy?",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2770a36-b57f-404d-a381-faf895e7ee2d",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "currency",
+        "meta": "@currency",
+        "alias": "currency",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Iran?",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

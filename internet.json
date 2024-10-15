@@ -1,0 +1,9 @@
+{
+  "id": "685bf2e3-1a99-4708-b505-f3e1650cb6f9",
+  "name": "internet",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

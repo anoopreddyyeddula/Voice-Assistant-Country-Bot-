@@ -1,0 +1,41 @@
+{
+  "id": "395d9c40-6b94-4757-a745-504b56ea2ac8",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hola! I can assist you in knowing the currency, population, Covid, Tourists and Internet Users.",
+            "Hi! I\u0027m available to assist you in learning about currency, population, COVID, tourism, and internet users.",
+            "Hey! I\u0027m here to provide assistance with currency, population, COVID, tourism, and internet user inquiries."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

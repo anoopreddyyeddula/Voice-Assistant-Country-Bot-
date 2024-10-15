@@ -1,0 +1,343 @@
+[
+  {
+    "id": "01f8bab4-4c15-4014-8686-085ae7bc1703",
+    "data": [
+      {
+        "text": "Tell me about the coronavirus situation in ",
+        "userDefined": false
+      },
+      {
+        "text": "Egypt",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " in 2020.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dbb0618-ece3-481a-b5d4-8abf22cf7fee",
+    "data": [
+      {
+        "text": "What was the extent of COVID-19 cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Belgium",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " during 2020?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53908738-a746-4a92-8ab4-2dbbcb9c9d44",
+    "data": [
+      {
+        "text": "How many people were affected by COVID-19 in the ",
+        "userDefined": false
+      },
+      {
+        "text": "United Kingdom",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " in 2020?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15e7e92a-f80c-403c-a2ba-83ae52268623",
+    "data": [
+      {
+        "text": "Tell me about the COVID-19 statistics in ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " during the year 2020.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7d75676-58dc-4bf6-bcdf-144e1850c777",
+    "data": [
+      {
+        "text": "Can you give me details on COVID-19 cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexico",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " in 2020?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbaa6f38-b6a5-4d5a-a2f6-60d2da8a1d56",
+    "data": [
+      {
+        "text": "Provide information on COVID-19 cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Brazil",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c442f07-a085-4f62-b770-ea96f86e96f4",
+    "data": [
+      {
+        "text": "Can you tell me the number of COVID-19 cases in the ",
+        "userDefined": false
+      },
+      {
+        "text": "United States",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " in 2020?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e6a4b44-f95b-4cd5-8400-49a21a956b2d",
+    "data": [
+      {
+        "text": "Inform me about the COVID-19 impact in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a74bf532-85bf-4fc3-accb-44c0f8db892a",
+    "data": [
+      {
+        "text": "What was the COVID-19 infection rate in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bangladesh",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " in 2020?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fb21c08-2880-4b6e-9b27-186c70ab1556",
+    "data": [
+      {
+        "text": "How severe was the COVID-19 outbreak in ",
+        "userDefined": false
+      },
+      {
+        "text": "Spain",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " in 2020?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3835e7c1-8aae-4a1a-b0dc-d2b5c6a0e5e9",
+    "data": [
+      {
+        "text": "Show COVID-19 statistics for the year 2020 in ",
+        "userDefined": false
+      },
+      {
+        "text": "France",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfd69b39-2219-478a-a393-e7654c0f1f7e",
+    "data": [
+      {
+        "text": "How much did COVID-19 harm ",
+        "userDefined": false
+      },
+      {
+        "text": "Iran",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " in 2020?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ee83d4a-b0df-48a2-8813-46e93eb76e53",
+    "data": [
+      {
+        "text": "How many members in ",
+        "userDefined": false
+      },
+      {
+        "text": "Italy",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " got affected by covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcdaac4b-6b97-4f4a-b763-bc4e9c5486d7",
+    "data": [
+      {
+        "text": "How many got affected by covid in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea51fd93-9221-4907-9b42-4194b2205727",
+    "data": [
+      {
+        "text": "What was the impact of covid in ",
+        "userDefined": false
+      },
+      {
+        "text": "Australia",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

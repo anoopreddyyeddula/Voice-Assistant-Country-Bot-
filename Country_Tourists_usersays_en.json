@@ -1,0 +1,557 @@
+[
+  {
+    "id": "a2c5beeb-ef97-45c3-9c4d-fd82a19e1b1a",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "travelers",
+        "meta": "@tour",
+        "alias": "tour",
+        "userDefined": true
+      },
+      {
+        "text": " go to ",
+        "userDefined": false
+      },
+      {
+        "text": "France",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " each year?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d17e887-e723-4716-8748-d4fae55aa9c5",
+    "data": [
+      {
+        "text": "In ",
+        "userDefined": false
+      },
+      {
+        "text": "Brazil",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": ", how many individuals use the ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@internet",
+        "alias": "internet",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e75a008a-e845-401e-a503-71f8c67da93a",
+    "data": [
+      {
+        "text": "Please tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "visitors",
+        "meta": "@tour",
+        "alias": "tour",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@internet",
+        "alias": "internet",
+        "userDefined": true
+      },
+      {
+        "text": " users in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9049951-4a9c-43d4-99e9-7f85588147b1",
+    "data": [
+      {
+        "text": "I\u0027d like to know the percentage of ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@internet",
+        "alias": "internet",
+        "userDefined": true
+      },
+      {
+        "text": " users in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "622d5ab6-bc5d-4041-aa5d-20cbcd409216",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@internet",
+        "alias": "internet",
+        "userDefined": true
+      },
+      {
+        "text": " usage rate in the ",
+        "userDefined": false
+      },
+      {
+        "text": "United Kingdom",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff7ad64c-6a55-4874-add3-3cb56392977a",
+    "data": [
+      {
+        "text": "Can you provide me the data on ",
+        "userDefined": false
+      },
+      {
+        "text": "tourists",
+        "meta": "@tour",
+        "alias": "tour",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@internet",
+        "alias": "internet",
+        "userDefined": true
+      },
+      {
+        "text": " usage in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexico",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1d98b6f-7458-42ee-ab9a-07b017733758",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "visitors",
+        "meta": "@tour",
+        "alias": "tour",
+        "userDefined": true
+      },
+      {
+        "text": " go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Russia",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": ", and what percentage of individuals use the ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@internet",
+        "alias": "internet",
+        "userDefined": true
+      },
+      {
+        "text": " there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f088213d-5b1f-490e-ab80-82670ccc4142",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "tourist",
+        "meta": "@tour",
+        "alias": "tour",
+        "userDefined": true
+      },
+      {
+        "text": " statistics for ",
+        "userDefined": false
+      },
+      {
+        "text": "Italy",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53f3bc4d-f0fa-4667-8c78-7c8c58aeda56",
+    "data": [
+      {
+        "text": "What percentage of ",
+        "userDefined": false
+      },
+      {
+        "text": "Germans",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " use the ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@internet",
+        "alias": "internet",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a29418ae-5a98-49a1-9709-4aceeef5db85",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@internet",
+        "alias": "internet",
+        "userDefined": true
+      },
+      {
+        "text": " usage in ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07ef7ffd-bcdd-4c9a-95bb-4ab776f128af",
+    "data": [
+      {
+        "text": "Can you give me information about ",
+        "userDefined": false
+      },
+      {
+        "text": "tourism",
+        "meta": "@tour",
+        "alias": "tour",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@internet",
+        "alias": "internet",
+        "userDefined": true
+      },
+      {
+        "text": " usage in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portugal",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e1a2113-a794-4ed3-9938-eb0b6e14a6ac",
+    "data": [
+      {
+        "text": "I\u0027m curious about ",
+        "userDefined": false
+      },
+      {
+        "text": "Belgium",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "tourism",
+        "meta": "@tour",
+        "alias": "tour",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@internet",
+        "alias": "internet",
+        "userDefined": true
+      },
+      {
+        "text": " usage statistics.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee26925c-4c95-498f-873a-93eec63f361e",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "tourist",
+        "meta": "@tour",
+        "alias": "tour",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@internet",
+        "alias": "internet",
+        "userDefined": true
+      },
+      {
+        "text": " usage statistics for the ",
+        "userDefined": false
+      },
+      {
+        "text": "United States",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05c435bf-b5a6-4a34-a97b-907ab0bfc7a7",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Spain",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s current ",
+        "userDefined": false
+      },
+      {
+        "text": "tourist",
+        "meta": "@tour",
+        "alias": "tour",
+        "userDefined": true
+      },
+      {
+        "text": " numbers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f82a7785-2701-486e-bcfe-f0781815fa7d",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "tourists",
+        "meta": "@tour",
+        "alias": "tour",
+        "userDefined": true
+      },
+      {
+        "text": " does ",
+        "userDefined": false
+      },
+      {
+        "text": "Japan",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " attract each year?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

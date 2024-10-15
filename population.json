@@ -1,0 +1,9 @@
+{
+  "id": "0f072816-41a2-4ebe-bfd6-875691b63a1d",
+  "name": "population",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

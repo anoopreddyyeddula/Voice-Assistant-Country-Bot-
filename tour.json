@@ -1,0 +1,9 @@
+{
+  "id": "dd0ea42a-baee-4755-800c-9478962682ad",
+  "name": "tour",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

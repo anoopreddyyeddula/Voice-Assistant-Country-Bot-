@@ -1,0 +1,9 @@
+{
+  "id": "263d634e-a5cd-4766-a3f4-f4771ad33185",
+  "name": "tar",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
